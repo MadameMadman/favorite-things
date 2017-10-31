@@ -1,0 +1,9 @@
+.jumbotron {
+  margin-top:2em;
+  background: linear-gradient(#00CCCC, #CCFFFF);
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
